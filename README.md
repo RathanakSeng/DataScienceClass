@@ -6,3 +6,4 @@ Lesson from my Data Science session
 
 - Miderm - The answer sheet of midterm exam
 - Projects - The dataset get from data collection for research project
+- Assignments - The assignment
